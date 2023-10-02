@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently building **full stack property listing website**
 - 📫 How to reach me **spurinruk@gmailcom**
-- 👨‍💻 Self-study **React**
+- 👨‍💻 Self-study **React, Python**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
