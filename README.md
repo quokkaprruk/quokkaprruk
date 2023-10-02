@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <h3 align="center">👨‍💻 Aspiring Backend Developer | 🌐 Seeking Internship Opportunities</h3>
 
-- 🔭 I’m currently studying **computer programming and analysis.**
 - 🌱 I’m currently building **full stack property listing website**
 - 📫 How to reach me **spurinruk@gmailcom**
 - 👨‍💻 Self-study **React**
