@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">Hi there, I'm Siripa 👋 </h3>
-<h3 align="center"> 🌐 Seeking Internship Opportunities</h3>
+<h3 align="center"> ✨ Hi there, I'm Siripa ✨ </h3>
+<h3 align="center"> 🌐 Seeking Internship Opportunities 🌐 </h3>
 
 - 🌱 I’m currently building **full stack property listing website**
 - 📫 How to reach me **spurinruk@gmailcom**
