@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center"> 🌐 Seeking Internship Opportunities 🌐 </h3>
 
 - 🌱 I’m currently building **full stack property listing website**
-- 📫 How to reach me **spurinruk@gmailcom**
+<!-- 📫 How to reach me **spurinruk@gmailcom**-->
 - 👨‍💻 Self-study **React, Python**
   
 <h3 align="left">Connect with me:</h3>
