@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I’m currently building **full stack property listing website**
 -->
 <h3 align="center"> ✨ Hi there, I'm Siripa ✨ </h3>
 <h3 align="center"> 🌐 Seeking Internship Opportunities 🌐 </h3>
 
-- 🌱 I’m currently building **full stack property listing website**
 <!-- 📫 How to reach me **spurinruk@gmailcom**-->
 - 👨‍💻 Self-study **Python**
   
