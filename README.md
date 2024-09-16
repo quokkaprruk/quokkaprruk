@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently building **full stack property listing website**
 <!-- 📫 How to reach me **spurinruk@gmailcom**-->
-- 👨‍💻 Self-study **React, Python**
+- 👨‍💻 Self-study **Python**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.python.org/static/img/python-logo.svg" alt="Python" width="40" height="40" />
+</a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
