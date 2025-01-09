@@ -3,7 +3,6 @@
 # About Me
 Hi everybody, I'm Siripa.<br>🔭 I'm currently studying cloud computing.
 
-## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/siripa-p-1438a3210) 
 
 # Languages and Tools
