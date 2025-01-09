@@ -40,6 +40,11 @@ Hi everybody, I'm Siripa.<br>🔭 I'm currently studying cloud computing.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=quokkaprruk&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quokkaprruk&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+
+<img src="https://raw.githubusercontent.com/quokkaprruk/quokkaprruk/output/snake.svg" alt="Snake animation" />
+
+###
 ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/quokkaprruk&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)
 
 <!-- -->
