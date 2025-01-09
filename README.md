@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://profile-counter.glitch.me/quokkaprruk/count.svg?"  />
+</div>
+
+###
 # 💫 About Me:
 Hi everybody, I'm Siripa.<br>🔭 I'm currently studying cloud computing.
 
