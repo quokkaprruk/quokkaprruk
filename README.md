@@ -1,7 +1,7 @@
 
 ###
 # About Me
-Hi everybody, I'm Siripa.<br>🔭 I'm currently studying cloud computing.
+Hi everyone, I'm Siripa.<br>🔭 I'm currently studying cloud computing.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siripa-p-1438a3210)
 
